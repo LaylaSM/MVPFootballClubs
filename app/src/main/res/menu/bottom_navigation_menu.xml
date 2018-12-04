@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/prevMatch"
+        android:enabled="true"
+        android:title="@string/bnm_matches"
+        android:icon="@drawable/prev_icon"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nextMatch"
+        android:enabled="true"
+        android:title="@string/bnm_teams"
+        android:icon="@drawable/balls_icon"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/favMatch"
+        android:enabled="true"
+        android:icon="@drawable/fav_icon"
+        android:title="@string/bnm_fav_match"
+        app:showAsAction="ifRoom" />
+</menu>

@@ -1,0 +1,74 @@
+<resources>
+    <string name="app_name">MVP Football</string>
+    <string name="app_names">Football Club Apps</string>
+    <string name="layla_names">LaylaSM</string>
+    <string name="dummy_date_ss">October 2018</string>
+    <string name="dummy_date">07 September 2018</string>
+    <string name="text_home">Home</string>
+    <string name="text_away">Away</string>
+    <string name="text_midfield">Midfield</string>
+    <string name="text_forward">Forward</string>
+    <string name="text_subtitutes">Subtitutes</string>
+    <string name="text_vs">VS</string>
+
+    <string-array name="club_name">
+        <item>Real Madrid FC</item>
+        <item>Barcelona FC</item>
+        <item>Bayern Munchen FC</item>
+        <item>Manchester City FC</item>
+        <item>Manchester United FC</item>
+        <item>Chelsea FC</item>
+        <item>AC Milan FC</item>
+        <item>Arsenal FC</item>
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_madrid</item>
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_bayern</item>
+        <item>@drawable/img_city</item>
+        <item>@drawable/img_mu</item>
+        <item>@drawable/img_chelsea</item>
+        <item>@drawable/img_acm</item>
+        <item>@drawable/img_arsenal</item>
+    </array>
+
+    <string name="barcelona_team">Barcelona FC</string>
+    <string name="madrid_team">Real Madrid</string>
+    <string name="arsenal_team">Arsenal</string>
+    <string name="mu_team">Mancester</string>
+
+    <string name="ronaldo">Ronaldo</string>
+    <string name="messi">Messi</string>
+
+    <string name="team_overview">Team Overview</string>
+
+    <string name="hello_blank_fragment">Welcome</string>
+    <string name="prev_match">Matches</string>
+    <string name="next_match">Teams</string>
+    <string name="fav_match">Favorite</string>
+    <string name="bnm_prev_match">PrevMatch</string>
+    <string name="bnm_matches">Matches</string>
+    <string name="bnm_teams">Teams</string>
+    <string name="bnm_next_match">NextMatch</string>
+    <string name="bnm_fav_match">FavMatch</string>
+
+    <string name="text_view_player_desc">Player Description</string>
+    <string name="text_view_no_data_yet">No Data Yet!</string>
+
+    <string name="text_view_desc">Description</string>
+    <string name="who_player">Who is He?</string>
+    <string name="text_view_lineups">Lineups</string>
+    <string name="text_view_goal_keeper">Goal Keeper</string>
+    <string name="text_view_defense">Defense</string>
+
+    <array name="club_teams">
+        <item>English Premier League</item>
+        <item>German Bundesliga</item>
+        <item>Italian Serie A</item>
+        <item>French Ligue 1</item>
+        <item>Spanish La Liga</item>
+        <item>Netherlands Eredivisie</item>
+    </array>
+
+</resources>
